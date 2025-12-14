@@ -26,4 +26,4 @@ The following STL files correspond to the skeleton types reported in the paper:
 - Skeletons can be swapped without modifying electronics or control software.
 - Changing the skeleton alters tail flexibility, bending amplitude, swimming speed, and energy efficiency.
 
-Type 4 (`Type4_h1-2_thick1-1.stl`) was used as the **default configuration** in most experiments due to its superior swimming speed and lowest cost of transport.
+Type 4 (`Type4_h1-2_thick1-1.stl`) has fastest swimming speed and lowest cost of transport.
