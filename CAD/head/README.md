@@ -5,3 +5,6 @@
 - `Head_Inner.stl`  
   Internal structural frame for mounting motors, magnets, batteries, and electronics.  
   This part does not require waterproof material and can be fabricated using standard 3D printing materials.
+
+- `Winch.stl`  
+  Winch component used to wind and release the actuation string driven by the motor.
