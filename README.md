@@ -24,8 +24,8 @@ By varying the internal tail skeleton geometry, the robot can achieve different 
 Tensegrity-Dolphin-Robot/
 ├── CAD/          # Mechanical design files (head, tail, molds, connectors)
 ├── PCB/          # Electronics design files
-├── firmware/     # Embedded firmware (ESP32)
-├── software/     # Control code
+├── Firmware/     # Embedded firmware (ESP32)
+├── Software/     # Control code
 ├── assets/       # Images and media
 └── README.md
 ```
