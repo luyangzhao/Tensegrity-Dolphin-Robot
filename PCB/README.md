@@ -27,4 +27,5 @@ You will need these components to build this Dolphin robot. If the link is expir
 8️⃣ **Encoder Magnet** – We are using Radial 6-pole. If you can't find it, other poles may also work. [Taobao Link](https://item.taobao.com/item.htm?_u=fb6lncq2191&id=539394627100)  
 9️⃣ **GA12-N20 Motor with rear shaft** – We are using 1:150 gear ratio, 12V, 200RPM (no load). Since we need a lot of this motor, we ordered with this vendor. You may find other equivalent for small quantity. [Taobao Link](https://shop108869903.taobao.com/?spm=pc_detail.30350276.shop_block.dshopinfo.2fe07dd6G8NZ3C)  
 🔟 **M1.7*6 Self-Tapping Screws** – Use this screw to connect Main Board with 3D printed inner structure. [Tmall Link](https://detail.tmall.com/item.htm?_u=fb6lncqd00d&id=601243288882&skuId=5653049345641)  
-1️⃣1️⃣ Wires are needed for assembly, recommend 22AWG or thicker for power cord. Switch wire can be thin.  
+1️⃣1️⃣ **M1.6*3 Screws** – Use this screw to connect GA12-N20 Motor with 3D printed inner structure. [Tmall Link](https://detail.tmall.com/item.htm?_u=fb6lncqb704&id=601243200968skuId=5945136077418)  
+1️⃣2️⃣ Wires are needed for assembly, recommend 22AWG or thicker for power cord. Switch wire can be thin.  
