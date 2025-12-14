@@ -24,4 +24,6 @@ You will need these components to build this Dolphin robot. If the link is expir
 5️⃣ **Tactile switch 4x4x3.5** – This part will be used to control the power of robot. [Taobao Link](https://item.taobao.com/item.htm?_u=fb6lncq47bf&id=578313422043&skuId=3994993738973)  
 6️⃣ **5W receiving module (square 23x30 coil) + 10W transmitting module** – This part is for wireless charging. [Taobao Link](https://item.taobao.com/item.htm?_u=fb6lncq9349&id=681481042391&skuId=5051612254394)  
 7️⃣ **Shaft Seal 5x13x5** – This part is for wireless charging. [Taobao Link](https://item.taobao.com/item.htm?_u=fb6lncq98e2&id=652255362545&skuId=4713539808324)  
-8️⃣ Wires are needed for assembly, recommend 22AWG or thicker for power cord. Switch wire can be thin.  
+8️⃣ **Encoder Magnet** – We are using Radial 6-pole. If you can't find it, other poles may also work. [Taobao Link](https://item.taobao.com/item.htm?_u=fb6lncq2191&id=539394627100)  
+9️⃣ **GA12-N20 Motor with rear shaft** – We are using 1:150 gear ratio, 12V, 200RPM (no load). Since we need a lot of this motor, we ordered with this vendor. You may find other equivalent for small quantity. [Taobao Link](https://shop108869903.taobao.com/?spm=pc_detail.30350276.shop_block.dshopinfo.2fe07dd6G8NZ3C)  
+🔟 Wires are needed for assembly, recommend 22AWG or thicker for power cord. Switch wire can be thin.  
