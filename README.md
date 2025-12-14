@@ -29,29 +29,6 @@ Tensegrity-Dolphin-Robot/
 ├── assets/       # Images and media
 └── README.md
 ```
-
-### Key Directories
-
-- **`CAD/`**  
-  Mechanical design files, including:
-  - Rigid head enclosure
-  - Tensegrity tail skeleton variants
-  - Silicone tail molding tools
-  - Modular connectors  
-  Each subdirectory contains its own README with detailed descriptions.
-
-- **`PCB/`**  
-  Schematics, layout files, and bills of materials for the onboard electronics.
-
-- **`firmware/`**  
-  Embedded firmware for motor control, sensing, and wireless communication.
-
-- **`software/`**  
-  High-level control
-
-- **`docs/`**  
-  Build guides, assembly notes, and fabrication considerations.
-
 ---
 
 ## Reference
@@ -66,4 +43,39 @@ Paper link:
 https://ieeexplore.ieee.org/document/11020959
 
 If you use this repository in your research, please cite the above paper.
+
+---
+
+## Fabrication and Reproduction
+
+This repository provides the design files and code necessary to reproduce the robotic system at a system level.  
+Detailed fabrication procedures, material choices, and experimental setup are described in the accompanying paper.
+
+In brief, reproduction involves:
+1. Fabrication of the rigid head components and tensegrity tail skeleton
+2. Molding of the silicone tail using the provided mold designs
+3. Assembly of the actuation system and connectors
+4. Integration of electronics and firmware
+5. Waterproofing, tuning, and aquatic testing
+
+Readers are encouraged to refer to the paper for detailed descriptions of materials, dimensions, and experimental protocols.
+
+---
+
+## Waterproofing Considerations
+
+Waterproofing is a critical aspect of the robotic system and requires careful mechanical and material design.  
+Based on our implementation, the key considerations include:
+
+1. **Shaft sealing**  
+   Proper sealing of rotating shafts is the primary and most critical waterproofing measure.  
+   Inadequate shaft sealing cannot be compensated for by external coatings or adhesives.
+
+2. **Silicone-based sealing and bonding**  
+   Silicone glue and sealants are used to seal housing interfaces, forming the system-level waterproof barrier.
+
+3. **Water-resistant fabrication materials**  
+   Waterproof or water-resistant printing materials (e.g., resin-based prints) help reduce water ingress but should be considered a supporting measure rather than a standalone solution.
+
+Successful waterproofing requires the **combined use** of all three approaches rather than reliance on any single method.
 
