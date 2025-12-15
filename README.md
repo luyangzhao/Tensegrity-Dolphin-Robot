@@ -33,6 +33,7 @@ Tensegrity-Dolphin-Robot/
 ├── Firmware/     # Embedded firmware (ESP32)
 ├── Software/     # Control code
 ├── assets/       # Images and media
+├── LICENSE 
 └── README.md
 ```
 ---
