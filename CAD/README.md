@@ -26,7 +26,7 @@ CAD/
 ## Subdirectories
 
 ### 1. `head/`
-Rigid structural components forming the waterproof head enclosure.
+Rigid structural components form the waterproof head enclosure.
 
 Includes:
 - Outer shell and internal mounting frames  
