@@ -82,6 +82,8 @@ Waterproofing is a critical aspect of the robotic system and requires careful me
 
 Successful waterproofing requires the **combined use** of all three approaches rather than reliance on any single method.
 
+---
+
 ## 📬 Contact
 
 For questions, collaboration, or reproducibility assistance:
