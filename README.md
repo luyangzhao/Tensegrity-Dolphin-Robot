@@ -17,8 +17,8 @@ Watch the robotic dolphin in action:
 The Tensegrity Dolphin Robot features a **hybrid rigid–soft architecture**:
 - A rigid, waterproof head module housing electronics, actuation, and power.
 - A flexible tensegrity tail skeleton enabling distributed compliance.
-- A molded silicone tail skin providing smooth hydrodynamic surfaces.
-- Modular connectors allowing rapid tail replacement and reconfiguration.
+- A molded silicone tail skin provides smooth hydrodynamic surfaces.
+- Modular connectors allow rapid tail replacement and reconfiguration.
 
 By varying the internal tail skeleton geometry, the robot can achieve different flexibility profiles and swimming performance, enabling systematic studies of morphology–locomotion trade-offs.
 
