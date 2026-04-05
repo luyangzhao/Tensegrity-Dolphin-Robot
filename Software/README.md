@@ -1,8 +1,6 @@
 # Software – High-Level Control
 
-This directory contains **high-level control and interaction software** for the **Tensegrity Dolphin Robot**.
-
-The software runs on an external computer and communicates wirelessly with the onboard firmware to command tail actuation and support basic experimentation.
+This directory contains **high-level control and interaction software** for the **Tensegrity Dolphin Robot**. The software runs on an external computer and communicates wirelessly with the onboard firmware to command tail actuation and support basic experimentation.
 
 ---
 
