@@ -1,13 +1,11 @@
 # Tensegrity Dolphin Robot
 
-Open-source design files for an **untethered bio-inspired robotic dolphin** with a **tensegrity-based, multi-flexibility tail** for efficient aquatic locomotion.
-
-This repository provides the mechanical, electronic, and software resources needed to understand, reproduce, and extend the robotic system presented in our RoboSoft 2025 paper.
+Open-source design files for an **untethered bio-inspired robotic dolphin** with a **tensegrity-based, multi-flexibility tail** for efficient aquatic locomotion. This repository provides the mechanical, electronic, and software resources needed to understand, reproduce, and extend the robotic system presented in our RoboSoft 2025 paper.
 
 ---
 
 ### **🎥 Dolphin Demonstration Video**  
-Watch the robotic dolphin in action.
+Please watch the robotic dolphin in action.
 
 [![Dolphin Video](https://img.youtube.com/vi/avUUYTJ178g/0.jpg)](https://www.youtube.com/watch?v=avUUYTJ178g)
 
@@ -71,8 +69,7 @@ Readers are encouraged to refer to the paper for detailed descriptions of materi
 Waterproofing is a critical aspect of the robotic system and requires careful mechanical and material design. Based on our implementation, the key considerations include:
 
 1. **Shaft sealing**  
-   Proper sealing of rotating shafts is the primary and most critical waterproofing measure.  
-   Inadequate shaft sealing cannot be compensated for by external coatings or adhesives.
+   Proper sealing of rotating shafts is the primary and most critical waterproofing measure. Inadequate shaft sealing cannot be compensated for by external coatings or adhesives.
 
 2. **Silicone-based sealing and bonding**  
    Silicone glue and sealants are used to seal housing interfaces, forming the system-level waterproof barrier.
