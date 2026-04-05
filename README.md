@@ -7,7 +7,7 @@ This repository provides the mechanical, electronic, and software resources need
 ---
 
 ### **🎥 Dolphin Demonstration Video**  
-Watch the robotic dolphin in action:  
+Watch the robotic dolphin in action.
 
 [![Dolphin Video](https://img.youtube.com/vi/avUUYTJ178g/0.jpg)](https://www.youtube.com/watch?v=avUUYTJ178g)
 
