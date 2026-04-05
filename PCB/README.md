@@ -1,8 +1,7 @@
 # **PCB Design** 
 
 ## 🔗 Access the PCB Design  
-The full **schematic, layout, and fabrication files** for the PCB are available in this directory. Please use EasyEDA (LCEDA) to open **ProPrj_Dolphin 3D.epro** for the source.
-You can also directly use the Gerber, BOM, and CPL files to produce the board.
+The full **schematic, layout, and fabrication files** for the PCB are available in this directory. Please use EasyEDA (LCEDA) to open **ProPrj_Dolphin 3D.epro** for the source. You can also directly use the Gerber, BOM, and CPL files to produce the board.
 
 ![SoftSnap 3-in-1 Motor Module PCB](../assets/images/pcb_design.png)  
 
