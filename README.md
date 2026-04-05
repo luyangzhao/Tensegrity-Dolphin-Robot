@@ -42,9 +42,7 @@ Tensegrity-Dolphin-Robot/
 
 This repository accompanies the paper:
 
-**An Untethered Bioinspired Robotic Tensegrity Dolphin with Multi-Flexibility Design for Aquatic Locomotion**  
-Luyang Zhao, Yitao Jiang, Chun-Yi She, Mingi Jeong, Haibo Dong, Alberto Quattrini Li, Muhao Chen, and Devin Balkcom.  
-*IEEE International Conference on Soft Robotics (RoboSoft), 2025*
+ Luyang Zhao, Yitao Jiang, Chun-Yi She, Mingi Jeong, Haibo Dong, Alberto Quattrini Li, Muhao Chen, and Devin Balkcom., 2025. An Untethered Bioinspired Robotic Tensegrity Dolphin with Multi-Flexibility Design for Aquatic Locomotion. In *2025 IEEE 8th International Conference on Soft Robotics (RoboSoft)* (pp. 1-7). IEEE
 
 Paper link:  
 https://ieeexplore.ieee.org/document/11020959
