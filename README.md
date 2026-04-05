@@ -53,8 +53,7 @@ If you use this repository in your research, please cite the above paper.
 
 ## Fabrication and Reproduction
 
-This repository provides the design files and code necessary to reproduce the robotic system at a system level.  
-Detailed fabrication procedures, material choices, and experimental setup are described in the accompanying paper.
+This repository provides the design files and code necessary to reproduce the robotic system at a system level. Detailed fabrication procedures, material choices, and experimental setup are described in the accompanying paper.
 
 In brief, reproduction involves:
 1. Fabrication of the rigid head components and tensegrity tail skeleton
@@ -69,8 +68,7 @@ Readers are encouraged to refer to the paper for detailed descriptions of materi
 
 ## Waterproofing Considerations
 
-Waterproofing is a critical aspect of the robotic system and requires careful mechanical and material design.  
-Based on our implementation, the key considerations include:
+Waterproofing is a critical aspect of the robotic system and requires careful mechanical and material design. Based on our implementation, the key considerations include:
 
 1. **Shaft sealing**  
    Proper sealing of rotating shafts is the primary and most critical waterproofing measure.  
@@ -83,4 +81,11 @@ Based on our implementation, the key considerations include:
    Waterproof or water-resistant printing materials (e.g., resin-based prints) help reduce water ingress but should be considered a supporting measure rather than a standalone solution.
 
 Successful waterproofing requires the **combined use** of all three approaches rather than reliance on any single method.
+
+## 📬 Contact
+
+For questions, collaboration, or reproducibility assistance:
+
+📧 **Luyang Zhao** — [luyangz@clemson.edu](mailto:luyangz@clemson.edu)  
+📧 **Yitao Jiang** — [yitao.jiang.gr@dartmouth.edu](mailto:yitao.jiang.gr@dartmouth.edu)
 
