@@ -5,8 +5,7 @@ This directory contains CAD files for the **connector components** that interfac
 ## Files
 
 - `Tail_Connector.stl`  
-  Connector component used to mechanically interface the tail skeleton with the head module.  
-  This part provides alignment and load transfer between the rigid head and the flexible tail.
+  Connector component used to mechanically interface the tail skeleton with the head module. This part provides alignment and load transfer between the rigid head and the flexible tail.
 
 ## Notes
 
