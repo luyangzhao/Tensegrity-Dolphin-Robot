@@ -1,4 +1,4 @@
-# Firmware – Embedded Control
+## Firmware – Embedded Control
 
 This directory contains the **embedded firmware** used to operate the **Tensegrity Dolphin Robot**.
 
