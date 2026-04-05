@@ -1,10 +1,8 @@
 - `Head.stl`  
-  Outer head shell forming the hydrodynamic exterior and primary waterproof barrier.  
-  This part should be printed using **resin or other waterproof materials**.
+  Outer head shell forming the hydrodynamic exterior and primary waterproof barrier. This part should be printed using **resin or other waterproof materials**.
 
 - `Head_Inner.stl`  
-  Internal structural frame for mounting motors, magnets, batteries, and electronics.  
-  This part does not require waterproof material and can be fabricated using standard 3D printing materials.
+  Internal structural frame for mounting motors, magnets, batteries, and electronics. This part does not require waterproof material and can be fabricated using standard 3D printing materials.
 
 - `Winch.stl`  
   Winch component used to wind and release the actuation string driven by the motor.
